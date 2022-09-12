@@ -39,6 +39,10 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Zekang Li, et al. 2020. [**Bridging Text and Video: A Universal Multimodal Transformer for Audio-Visual Scene-Aware Dialog**](https://arxiv.org/abs/2002.00163). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/ictnlp/DSTC8-AVSD) <code>Text</code> <code>Video</code>
 - Tom Young, et al. 2020. [**Dialogue systems with audio context**](https://www.sciencedirect.com/science/article/pii/S0925231220300758). _Neurocomputing, Elsevier_. <code>Text</code> <code>Speech</code>
 - Xiangyang Mou, et al. 2020. [**Multimodal Dialogue State Tracking By QA Approach with Data Augmentation**](https://arxiv.org/abs/2007.09903). _Dialog System Technology Challenge, AAAI_. <code>Text</code> <code>Video</code>
+- Yun-Wei Chu, et al. 2020. [**Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System**](https://arxiv.org/abs/2001.06206). _Dialog System Technology Challenge, AAAI_. <code>Text</code> <code>Video</code>
+- Hardik Chauhan, et al. 2019. [**Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System**](https://aclanthology.org/P19-1540/). __ACL__. <code>Text</code> <code>Image</code>
+- Huang Le, et al. 2019. [**Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems**](https://aclanthology.org/P19-1564/). _ACL_. [\[GitHub\]](https://github.com/henryhungle/MTN.) <code>Text</code> <code>Video</code>
+- Tatsuya Kawahara. 2019. [**Spoken Dialogue System for a Human-like Conversational Robot ERICA**](https://colips.org/conferences/iwsds2018/wp/wp-content/uploads/2018/06/IWSDS18-kawahara.pdf). _IWSDS_. <code>Audio</code> <code>Text</code>
 - Lizi Liao, et al. 2018. [**Knowledge-aware Multimodal Dialogue Systems**](https://dl.acm.org/doi/pdf/10.1145/3240508.3240605). _MM, ACM_. <code>Text</code> <code>Image</code>
 - Shubham Agarwal, et al. 2018. [**A Knowledge-Grounded Multimodal Search-Based Conversational Agent**](https://aclanthology.org/W18-5709/). _Workshop on Search-Oriented Conversational AI, EMNLP_. <code>Text</code> <code>Image</code>
 - Shubham Agarwal, et al. 2018. [**Improving Context Modelling in Multimodal Dialogue Generation**](https://arxiv.org/abs/1810.11955). _INLG_. <code>Text</code> <code>Image</code>
@@ -55,16 +59,22 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 ### :card_file_box: Dataset and Challenges
 
-- Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_.
+- Zhengcong Fei, et al. 2021. [**Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark**](https://arxiv.org/abs/2109.01839). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/lizekang/DSTC10-MOD) <code>Chinese</code>
+- Satwik Kottur, et al. 2021. [**SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations**](https://aclanthology.org/2021.emnlp-main.401/). _EMNLP_.
+- Seungwhan Moon, et al. 2020. [**Situated and Interactive Multimodal Conversations**](https://aclanthology.org/2020.coling-main.96/). _COLING_.
 - Darryl Hannan, Akshay Jain, Mohit Bansal. 2020. [**ManyModalQA: Modality Disambiguation and QA over Diverse Inputs**](https://ojs.aaai.org/index.php/AAAI/article/view/6294). _AAAI_.
+- Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_.
+- Amrita Saha, Mitesh Khapra, Karthik Sankaranarayanan. 2018. [**Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**](https://ojs.aaai.org/index.php/AAAI/article/view/11331). _AAAI_.
 
 ### :robot: Interface, Experience, and Interaction
 
-- Stefan Schaffer, Norbert Reithinger. 2019. [**Conversation is Multimodal - Thus Conversational User Interfaces should be as well**](https://dl.acm.org/doi/abs/10.1145/3342775.3342801). _Conversational User Interfaces (CUI), ACM_.
+- Delphine Potdevin, Céline Clavel, Nicolas Sabouret. 2020. [**Virtual intimacy in human-embodied conversational agent interactions: the influence of multimodality on its perception**](https://link.springer.com/article/10.1007/s12193-020-00337-9). _Journal on Multimodal User Interfaces, Springer_.
+- Stefan Schaffer, Norbert Reithinger. 2019. [**Conversation is Multimodal: Thus Conversational User Interfaces should be as well**](https://dl.acm.org/doi/abs/10.1145/3342775.3342801). _Conversational User Interfaces (CUI), ACM_.
 - Liu Yang, Catherine Achard, and Catherine Pelachaud. 2022. [**Multimodal Analysis of Interruptions**](https://www.researchgate.net/profile/Catherine-Pelachaud/publication/361335318_Multimodal_Analysis_of_Interruptions/links/62e3e4499d410c5ff36d55b5/Multimodal-Analysis-of-Interruptions.pdf). _International Conference on Human-Computer Interaction, Springer_.
 
 ## :bookmark: Articles, Tutorials, and Presentations
 
+- Mireille Fares. 2020. [**Towards Multimodal Human-Like Characteristics and Expressive Visual Prosody in Virtual Agents**](https://dl.acm.org/doi/pdf/10.1145/3382507.3421155). _Doctoral Consortium Paper, ICMI_.
 - Louis-Philippe Morency, Tadas Baltrušaitis. 2017. [**Multimodal Machine Learning: Integrating Language, Vision and Speech**](https://aclanthology.org/P17-5002/). _Tutorial Abstracts, ACL_.
 - Margaret Mitchell, John C. Platt, Kate Saenko. 2017. [**Guest Editorial: Image and Language Understanding**](https://link.springer.com/article/10.1007/s11263-017-0993-y). _International Journal of Computer Vision, Springer_.
-- Desmond Elliott, Douwe Kiela and Angeliki Lazaridou. 2016. [**Multimodal Learning and Reasoning**](http://multimodalnlp.github.io/mlr_tutorial.pdf). Multimodal NLP Tutorial in _ACL_.
+- Desmond Elliott, Douwe Kiela and Angeliki Lazaridou. 2016. [**Multimodal Learning and Reasoning**](http://multimodalnlp.github.io/mlr_tutorial.pdf). _Multimodal NLP Tutorial, ACL_.
