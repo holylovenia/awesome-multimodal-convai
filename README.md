@@ -37,6 +37,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 #### Multimodal Dialogue
 
 - Zekang Li, et al. 2020. [**Bridging Text and Video: A Universal Multimodal Transformer for Audio-Visual Scene-Aware Dialog**](https://arxiv.org/abs/2002.00163). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/ictnlp/DSTC8-AVSD) <code>Text</code> <code>Video</code>
+- Jiaxin Qi, et al. 2020. [**Two Causal Principles for Improving Visual Dialog**](https://arxiv.org/abs/1911.10496). _CVPR_.
 - Tom Young, et al. 2020. [**Dialogue systems with audio context**](https://www.sciencedirect.com/science/article/pii/S0925231220300758). _Neurocomputing, Elsevier_. <code>Text</code> <code>Speech</code>
 - Xiangyang Mou, et al. 2020. [**Multimodal Dialogue State Tracking By QA Approach with Data Augmentation**](https://arxiv.org/abs/2007.09903). _Dialog System Technology Challenge, AAAI_. <code>Text</code> <code>Video</code>
 - Yun-Wei Chu, et al. 2020. [**Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System**](https://arxiv.org/abs/2001.06206). _Dialog System Technology Challenge, AAAI_. <code>Text</code> <code>Video</code>
@@ -46,6 +47,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Lizi Liao, et al. 2018. [**Knowledge-aware Multimodal Dialogue Systems**](https://dl.acm.org/doi/pdf/10.1145/3240508.3240605). _MM, ACM_. <code>Text</code> <code>Image</code>
 - Shubham Agarwal, et al. 2018. [**A Knowledge-Grounded Multimodal Search-Based Conversational Agent**](https://aclanthology.org/W18-5709/). _Workshop on Search-Oriented Conversational AI, EMNLP_. <code>Text</code> <code>Image</code>
 - Shubham Agarwal, et al. 2018. [**Improving Context Modelling in Multimodal Dialogue Generation**](https://arxiv.org/abs/1810.11955). _INLG_. <code>Text</code> <code>Image</code>
+- Xiaoxiao Guo, et al. 2018. [**Dialog-based Interactive Image Retrieval**](https://proceedings.neurips.cc/paper/2018/file/a01a0380ca3c61428c26a231f0e49a09-Paper.pdf). _NeurIPS_.
 
 #### Multimodal Reasoning
 
@@ -63,8 +65,10 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Satwik Kottur, et al. 2021. [**SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations**](https://aclanthology.org/2021.emnlp-main.401/). _EMNLP_.
 - Seungwhan Moon, et al. 2020. [**Situated and Interactive Multimodal Conversations**](https://aclanthology.org/2020.coling-main.96/). _COLING_.
 - Darryl Hannan, Akshay Jain, Mohit Bansal. 2020. [**ManyModalQA: Modality Disambiguation and QA over Diverse Inputs**](https://ojs.aaai.org/index.php/AAAI/article/view/6294). _AAAI_.
+- Satwik Kottur, et al. 2019. [**CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog**](https://aclanthology.org/N19-1058/). _NAACL_.
 - Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_.
 - Amrita Saha, Mitesh Khapra, Karthik Sankaranarayanan. 2018. [**Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**](https://ojs.aaai.org/index.php/AAAI/article/view/11331). _AAAI_.
+- Harm de Vries, et al. 2018. [**Talk the Walk: Navigating New York City through Grounded Dialogue**](https://arxiv.org/abs/1807.03367). _arXiv_. [\[GitHub\]](https://github.com/facebookresearch/talkthewalk)
 
 ### :robot: Interface, Experience, and Interaction
 
