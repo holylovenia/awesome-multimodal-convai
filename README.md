@@ -47,7 +47,8 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Lizi Liao, et al. 2018. [**Knowledge-aware Multimodal Dialogue Systems**](https://dl.acm.org/doi/pdf/10.1145/3240508.3240605). _MM, ACM_. <code>Text</code> <code>Image</code>
 - Shubham Agarwal, et al. 2018. [**A Knowledge-Grounded Multimodal Search-Based Conversational Agent**](https://aclanthology.org/W18-5709/). _Workshop on Search-Oriented Conversational AI, EMNLP_. <code>Text</code> <code>Image</code>
 - Shubham Agarwal, et al. 2018. [**Improving Context Modelling in Multimodal Dialogue Generation**](https://arxiv.org/abs/1810.11955). _INLG_. <code>Text</code> <code>Image</code>
-- Xiaoxiao Guo, et al. 2018. [**Dialog-based Interactive Image Retrieval**](https://proceedings.neurips.cc/paper/2018/file/a01a0380ca3c61428c26a231f0e49a09-Paper.pdf). _NeurIPS_.
+- Xiaoxiao Guo, et al. 2018. [**Dialog-based Interactive Image Retrieval**](https://proceedings.neurips.cc/paper/2018/file/a01a0380ca3c61428c26a231f0e49a09-Paper.pdf). _NeurIPS_. [\[GitHub\]](https://github.com/XiaoxiaoGuo/fashion-retrieval)
+- Abhishek Das, et al. 2017. [**Visual Dialog**](https://arxiv.org/abs/1611.08669). _CVPR_. [\[GitHub\]](https://github.com/batra-mlp-lab/visdial)
 
 #### Multimodal Reasoning
 
@@ -65,9 +66,9 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Satwik Kottur, et al. 2021. [**SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations**](https://aclanthology.org/2021.emnlp-main.401/). _EMNLP_.
 - Seungwhan Moon, et al. 2020. [**Situated and Interactive Multimodal Conversations**](https://aclanthology.org/2020.coling-main.96/). _COLING_.
 - Darryl Hannan, Akshay Jain, Mohit Bansal. 2020. [**ManyModalQA: Modality Disambiguation and QA over Diverse Inputs**](https://ojs.aaai.org/index.php/AAAI/article/view/6294). _AAAI_.
-- Satwik Kottur, et al. 2019. [**CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog**](https://aclanthology.org/N19-1058/). _NAACL_.
-- Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_.
-- Amrita Saha, Mitesh Khapra, Karthik Sankaranarayanan. 2018. [**Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**](https://ojs.aaai.org/index.php/AAAI/article/view/11331). _AAAI_.
+- Satwik Kottur, et al. 2019. [**CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog**](https://aclanthology.org/N19-1058/). _NAACL_. [\[GitHub\]](https://github.com/satwikkottur/clevr-dialog)
+- Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_. [\[Homepage\]](https://affective-meld.github.io/)
+- Amrita Saha, Mitesh Khapra, Karthik Sankaranarayanan. 2018. [**Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**](https://ojs.aaai.org/index.php/AAAI/article/view/11331). _AAAI_. [\[Homepage\]](https://amritasaha1812.github.io/MMD/)
 - Harm de Vries, et al. 2018. [**Talk the Walk: Navigating New York City through Grounded Dialogue**](https://arxiv.org/abs/1807.03367). _arXiv_. [\[GitHub\]](https://github.com/facebookresearch/talkthewalk)
 
 ### :robot: Interface, Experience, and Interaction
