@@ -74,8 +74,13 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 #### Multimodal Reasoning
 
 - Qingxiu Dong, et al. 2022. [**Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues**](https://aclanthology.org/2022.acl-long.66/). _ACL_.
+- Weifeng Zhang, et al. 2021. [**DMRFNet: Deep Multimodal Reasoning and Fusion for Visual Question Answering and explanation generation**](https://www.sciencedirect.com/science/article/pii/S1566253521000208). _Information Fusion, Elsevier_.
+- Remi Cadene, et al. 2019. [**MUREL: Multimodal Relational Reasoning for Visual Question Answering**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.pdf). _CVPR_.
 
 #### Visual QA
+
+- Sruthy Manmadhan, Binsu C. Kovoor. 2020. [**Visual question answering: a state-of-the-art review**](https://link.springer.com/article/10.1007/s10462-020-09832-7). _Artificial Intelligence Review, Springer_.
+- Remi Cadene, et al. 2019. [**RUBi: Reducing Unimodal Biases for Visual Question Answering**](https://proceedings.neurips.cc/paper/2019/file/51d92be1c60d1db1d2e5e7a07da55b26-Paper.pdf). _NeurIPS_.
 
 #### Affect Recognition and Multimodal Language
 
@@ -100,6 +105,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Darryl Hannan, Akshay Jain, Mohit Bansal. 2020. [**ManyModalQA: Modality Disambiguation and QA over Diverse Inputs**](https://ojs.aaai.org/index.php/AAAI/article/view/6294). _AAAI_.
 - Satwik Kottur, et al. 2019. [**CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog**](https://aclanthology.org/N19-1058/). _NAACL_. [\[GitHub\]](https://github.com/satwikkottur/clevr-dialog)
 - Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_. [\[Homepage\]](https://affective-meld.github.io/)
+- Asma Ben Abacha, et al. 2019. [**VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019**](https://web.archive.org/web/20220120143058id_/http://ceur-ws.org/Vol-2380/paper_272.pdf). _CLEF_.
 - Amrita Saha, Mitesh Khapra, Karthik Sankaranarayanan. 2018. [**Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**](https://ojs.aaai.org/index.php/AAAI/article/view/11331). _AAAI_. [\[Homepage\]](https://amritasaha1812.github.io/MMD/)
 - Harm de Vries, et al. 2018. [**Talk the Walk: Navigating New York City through Grounded Dialogue**](https://arxiv.org/abs/1807.03367). _arXiv_. [\[GitHub\]](https://github.com/facebookresearch/talkthewalk)
 
