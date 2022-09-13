@@ -18,7 +18,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Wenzhong Guo, Jianwen Wang, Shiping Wang. 2019. [**Deep Multimodal Representation Learning: A Survey**](https://ieeexplore.ieee.org/abstract/document/8715409). _IEEE Access_.
 - Tadas Baltrušaitis, Chaitanya Ahuja, Louis-Philippe Morency. 2018. [**Multimodal Machine Learning: A Survey and Taxonomy**](https://ieeexplore.ieee.org/iel7/34/8605394/08269806.pdf). _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 
-### :monocle_face: Focus Areas
+### :monocle_face: Multimodal Learning
 
 #### Multimodal Representation
 
@@ -36,19 +36,27 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 #### Multimodal Dialogue
 
-- Zekang Li, et al. 2020. [**Bridging Text and Video: A Universal Multimodal Transformer for Audio-Visual Scene-Aware Dialog**](https://arxiv.org/abs/2002.00163). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/ictnlp/DSTC8-AVSD) <code>Text</code> <code>Video</code>
+##### Visual Dialogue
+
 - Jiaxin Qi, et al. 2020. [**Two Causal Principles for Improving Visual Dialog**](https://arxiv.org/abs/1911.10496). _CVPR_.
-- Tom Young, et al. 2020. [**Dialogue systems with audio context**](https://www.sciencedirect.com/science/article/pii/S0925231220300758). _Neurocomputing, Elsevier_. <code>Text</code> <code>Speech</code>
-- Xiangyang Mou, et al. 2020. [**Multimodal Dialogue State Tracking By QA Approach with Data Augmentation**](https://arxiv.org/abs/2007.09903). _Dialog System Technology Challenge, AAAI_. <code>Text</code> <code>Video</code>
-- Yun-Wei Chu, et al. 2020. [**Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System**](https://arxiv.org/abs/2001.06206). _Dialog System Technology Challenge, AAAI_. <code>Text</code> <code>Video</code>
-- Hardik Chauhan, et al. 2019. [**Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System**](https://aclanthology.org/P19-1540/). __ACL__. <code>Text</code> <code>Image</code>
-- Huang Le, et al. 2019. [**Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems**](https://aclanthology.org/P19-1564/). _ACL_. [\[GitHub\]](https://github.com/henryhungle/MTN.) <code>Text</code> <code>Video</code>
-- Tatsuya Kawahara. 2019. [**Spoken Dialogue System for a Human-like Conversational Robot ERICA**](https://colips.org/conferences/iwsds2018/wp/wp-content/uploads/2018/06/IWSDS18-kawahara.pdf). _IWSDS_. <code>Audio</code> <code>Text</code>
-- Lizi Liao, et al. 2018. [**Knowledge-aware Multimodal Dialogue Systems**](https://dl.acm.org/doi/pdf/10.1145/3240508.3240605). _MM, ACM_. <code>Text</code> <code>Image</code>
-- Shubham Agarwal, et al. 2018. [**A Knowledge-Grounded Multimodal Search-Based Conversational Agent**](https://aclanthology.org/W18-5709/). _Workshop on Search-Oriented Conversational AI, EMNLP_. <code>Text</code> <code>Image</code>
-- Shubham Agarwal, et al. 2018. [**Improving Context Modelling in Multimodal Dialogue Generation**](https://arxiv.org/abs/1810.11955). _INLG_. <code>Text</code> <code>Image</code>
+- Hardik Chauhan, et al. 2019. [**Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System**](https://aclanthology.org/P19-1540/). __ACL__.
+- Lizi Liao, et al. 2018. [**Knowledge-aware Multimodal Dialogue Systems**](https://dl.acm.org/doi/pdf/10.1145/3240508.3240605). _MM, ACM_.
+- Shubham Agarwal, et al. 2018. [**A Knowledge-Grounded Multimodal Search-Based Conversational Agent**](https://aclanthology.org/W18-5709/). _Workshop on Search-Oriented Conversational AI, EMNLP_.
+- Shubham Agarwal, et al. 2018. [**Improving Context Modelling in Multimodal Dialogue Generation**](https://arxiv.org/abs/1810.11955). _INLG_.
 - Xiaoxiao Guo, et al. 2018. [**Dialog-based Interactive Image Retrieval**](https://proceedings.neurips.cc/paper/2018/file/a01a0380ca3c61428c26a231f0e49a09-Paper.pdf). _NeurIPS_. [\[GitHub\]](https://github.com/XiaoxiaoGuo/fashion-retrieval)
 - Abhishek Das, et al. 2017. [**Visual Dialog**](https://arxiv.org/abs/1611.08669). _CVPR_. [\[GitHub\]](https://github.com/batra-mlp-lab/visdial)
+
+##### Spoken Dialogue
+
+- Tom Young, et al. 2020. [**Dialogue systems with audio context**](https://www.sciencedirect.com/science/article/pii/S0925231220300758). _Neurocomputing, Elsevier_.
+- Tatsuya Kawahara. 2019. [**Spoken Dialogue System for a Human-like Conversational Robot ERICA**](https://colips.org/conferences/iwsds2018/wp/wp-content/uploads/2018/06/IWSDS18-kawahara.pdf). _IWSDS_.
+
+##### Audio-Visual Dialogue
+
+- Zekang Li, et al. 2020. [**Bridging Text and Video: A Universal Multimodal Transformer for Audio-Visual Scene-Aware Dialog**](https://arxiv.org/abs/2002.00163). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/ictnlp/DSTC8-AVSD)
+- Xiangyang Mou, et al. 2020. [**Multimodal Dialogue State Tracking By QA Approach with Data Augmentation**](https://arxiv.org/abs/2007.09903). _Dialog System Technology Challenge, AAAI_.
+- Yun-Wei Chu, et al. 2020. [**Multi-step Joint-Modality Attention Network for Scene-Aware Dialogue System**](https://arxiv.org/abs/2001.06206). _Dialog System Technology Challenge, AAAI_.
+- Huang Le, et al. 2019. [**Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems**](https://aclanthology.org/P19-1564/). _ACL_. [\[GitHub\]](https://github.com/henryhungle/MTN.)
 
 #### Multimodal Reasoning
 
