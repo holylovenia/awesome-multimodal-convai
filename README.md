@@ -83,6 +83,8 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Yang Wu, et al. 2022. [**Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors**](https://aclanthology.org/2022.findings-acl.109/). _Findings, ACL_.
 - Jiquan Wang, et al. 2022. [**Multimodal Sarcasm Target Identification in Tweets**](https://aclanthology.org/2022.acl-long.562/). _ACL_.
 - Huisheng Mao, et al. 2022. [**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**](https://aclanthology.org/2022.acl-demo.20/). _System Demonstrations, ACL_.
+- Wenliang Dai, et al. 2021. [**Weakly-supervised Multi-task Learning for Multimodal Affect Recognition**](https://arxiv.org/abs/2104.11560). _arXiv_.
+- Trisha Mittal, et al. 2020. [**M3ER: Multiplicative Multimodal Emotion Recognition using Facial, Textual, and Speech Cues**](https://ojs.aaai.org/index.php/AAAI/article/view/5492). _AAAI_.
 
 ### :100: Evaluation
 
