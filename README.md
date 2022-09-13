@@ -18,7 +18,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Wenzhong Guo, Jianwen Wang, Shiping Wang. 2019. [**Deep Multimodal Representation Learning: A Survey**](https://ieeexplore.ieee.org/abstract/document/8715409). _IEEE Access_.
 - Tadas Baltrušaitis, Chaitanya Ahuja, Louis-Philippe Morency. 2018. [**Multimodal Machine Learning: A Survey and Taxonomy**](https://ieeexplore.ieee.org/iel7/34/8605394/08269806.pdf). _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 
-### :monocle_face: Multimodal Learning
+### :monocle_face: Multimodal Machine Learning
 
 #### Multimodal Representation
 
