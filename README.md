@@ -66,6 +66,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 ### :100: Evaluation
 
+- Paul Pu Liang, et al. 2021. [**MultiBench: Multiscale Benchmarks for Multimodal Representation Learning**](https://arxiv.org/abs/2107.07502). _NeuRIPS_.
 - Masahiro Araki, et al. 2018. [**Collection of Multimodal Dialog Data and Analysis of the Result of Annotation of Users’ Interest Level**](https://aclanthology.org/L18-1250/). _LREC_. <code>Manual</code>
 
 ### :card_file_box: Dataset and Challenges
