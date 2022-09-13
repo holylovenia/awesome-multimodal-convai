@@ -10,21 +10,21 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 ### :nerd_face: Multimodal Surveys
 
 - Anirudh Sundar, Larry Heck. 2022. [**Multimodal Conversational AI: A Survey of Datasets and Approaches**](https://aclanthology.org/2022.nlp4convai-1.12/). _Workshop on NLP for ConvAI, ACL_.
-- Anil Rahate, et al. 2022. [**Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions**](https://arxiv.org/abs/2107.13782). _Information Fusion, Elsevier_.
 - Aditya Mogadala, Marimuthu Kalimuthu, Dietrich Klakow. 2021. [**Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods**](https://doi.org/10.1613/jair.1.11688). _JAIR_.
 - Chao Zhang, et al. 2020. [**Multimodal Intelligence: Representation Learning, Information Fusion, and Applications**](https://arxiv.org/abs/1911.03977). _IEEE Journal of Selected Topics in Signal Processing_.
 - Yonatan Bisk, et al. 2020. [**Experience Grounds Language**](https://aclanthology.org/2020.emnlp-main.703/). _EMNLP_.
-- Jing Gao, et al. 2020. [**A survey on deep learning for multimodal data fusion**](https://direct.mit.edu/neco/article-pdf/32/5/829/1865303/neco_a_01273.pdf). _Neural Computation, MIT_.
-- Wenzhong Guo, Jianwen Wang, Shiping Wang. 2019. [**Deep Multimodal Representation Learning: A Survey**](https://ieeexplore.ieee.org/abstract/document/8715409). _IEEE Access_.
 - Tadas Baltrušaitis, Chaitanya Ahuja, Louis-Philippe Morency. 2018. [**Multimodal Machine Learning: A Survey and Taxonomy**](https://ieeexplore.ieee.org/iel7/34/8605394/08269806.pdf). _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 
 ### :monocle_face: Multimodal Machine Learning
 
 #### Multimodal Representation
 
+- Wenzhong Guo, Jianwen Wang, Shiping Wang. 2019. [**Deep Multimodal Representation Learning: A Survey**](https://ieeexplore.ieee.org/abstract/document/8715409). _IEEE Access_.
+
 #### Multimodal Fusion
 
 - Yiqun Yao, Rada Mihalcea. 2022. [**Modality-specific Learning Rates for Effective Multimodal Additive Late-fusion**](https://aclanthology.org/2022.findings-acl.143/). _Findings, ACL_.
+- Jing Gao, et al. 2020. [**A survey on deep learning for multimodal data fusion**](https://direct.mit.edu/neco/article-pdf/32/5/829/1865303/neco_a_01273.pdf). _Neural Computation, MIT_.
 
 #### Multimodal Translation
 
@@ -42,6 +42,8 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Hui Su, et al. 2022. [**RoCBert: Robust Chinese Bert with Multimodal Contrastive Pretraining**](https://aclanthology.org/2022.acl-long.65/). _ACL_.
 
 #### Multimodal Co-learning
+
+- Anil Rahate, et al. 2022. [**Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions**](https://arxiv.org/abs/2107.13782). _Information Fusion, Elsevier_.
 
 ### :face_in_clouds: ConvAI Tasks
 
@@ -99,8 +101,11 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 ### :card_file_box: Dataset and Challenges
 
 - Yunlong Liang, et al. 2022. [**MSCTD: A Multimodal Sentiment Chat Translation Dataset**](https://aclanthology.org/2022.acl-long.186). _ACL_.
+- Yirong Chen, et al. 2022. [**CPED: A Large-Scale Chinese Personalized and Emotional Dialogue Dataset for Conversational AI**](https://arxiv.org/abs/2205.14727). _arXiv_. <code>Chinese</code>
 - Zhengcong Fei, et al. 2021. [**Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark**](https://arxiv.org/abs/2109.01839). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/lizekang/DSTC10-MOD) <code>Chinese</code>
+- Deeksha Varshney, Asif Ekbal Anushkha Singh. 2021. [**Knowledge Grounded Multimodal Dialog Generation in Task-oriented Settings**](https://aclanthology.org/2021.paclic-1.45.pdf). _PACLIC_.
 - Satwik Kottur, et al. 2021. [**SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations**](https://aclanthology.org/2021.emnlp-main.401/). _EMNLP_.
+- Kübra Bodur, et al. 2021. [**ChiCo: A Multimodal Corpus for the Study of Child Conversation**](https://dl.acm.org/doi/pdf/10.1145/3461615.3485399). _ICMI_.
 - Seungwhan Moon, et al. 2020. [**Situated and Interactive Multimodal Conversations**](https://aclanthology.org/2020.coling-main.96/). _COLING_.
 - Darryl Hannan, Akshay Jain, Mohit Bansal. 2020. [**ManyModalQA: Modality Disambiguation and QA over Diverse Inputs**](https://ojs.aaai.org/index.php/AAAI/article/view/6294). _AAAI_.
 - Satwik Kottur, et al. 2019. [**CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog**](https://aclanthology.org/N19-1058/). _NAACL_. [\[GitHub\]](https://github.com/satwikkottur/clevr-dialog)
@@ -124,5 +129,6 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 - Mireille Fares. 2020. [**Towards Multimodal Human-Like Characteristics and Expressive Visual Prosody in Virtual Agents**](https://dl.acm.org/doi/pdf/10.1145/3382507.3421155). _Doctoral Consortium Paper, ICMI_.
 - Louis-Philippe Morency, Tadas Baltrušaitis. 2017. [**Multimodal Machine Learning: Integrating Language, Vision and Speech**](https://aclanthology.org/P17-5002/). _Tutorial Abstracts, ACL_.
+- Louis-Philippe Morency, Tadas Baltrusaitis. 2017. [**Multimodal Machine Learning**](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf). _Tutorial, ACL_.
 - Margaret Mitchell, John C. Platt, Kate Saenko. 2017. [**Guest Editorial: Image and Language Understanding**](https://link.springer.com/article/10.1007/s11263-017-0993-y). _International Journal of Computer Vision, Springer_.
 - Desmond Elliott, Douwe Kiela and Angeliki Lazaridou. 2016. [**Multimodal Learning and Reasoning**](http://multimodalnlp.github.io/mlr_tutorial.pdf). _Tutorial, ACL_.
