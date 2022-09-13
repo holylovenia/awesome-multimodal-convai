@@ -90,4 +90,4 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Mireille Fares. 2020. [**Towards Multimodal Human-Like Characteristics and Expressive Visual Prosody in Virtual Agents**](https://dl.acm.org/doi/pdf/10.1145/3382507.3421155). _Doctoral Consortium Paper, ICMI_.
 - Louis-Philippe Morency, Tadas Baltrušaitis. 2017. [**Multimodal Machine Learning: Integrating Language, Vision and Speech**](https://aclanthology.org/P17-5002/). _Tutorial Abstracts, ACL_.
 - Margaret Mitchell, John C. Platt, Kate Saenko. 2017. [**Guest Editorial: Image and Language Understanding**](https://link.springer.com/article/10.1007/s11263-017-0993-y). _International Journal of Computer Vision, Springer_.
-- Desmond Elliott, Douwe Kiela and Angeliki Lazaridou. 2016. [**Multimodal Learning and Reasoning**](http://multimodalnlp.github.io/mlr_tutorial.pdf). _Tutorial Abstracts, ACL_.
+- Desmond Elliott, Douwe Kiela and Angeliki Lazaridou. 2016. [**Multimodal Learning and Reasoning**](http://multimodalnlp.github.io/mlr_tutorial.pdf). _Tutorial, ACL_.
