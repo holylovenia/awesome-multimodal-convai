@@ -100,6 +100,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 ### :card_file_box: Dataset and Challenges
 
+- Mauajama Firdaus, et al. 2022. [**EmoSen: Generating Sentiment and Emotion Controlled Responses in a Multimodal Dialogue System**](https://ieeexplore.ieee.org/abstract/document/9165162/). _IEEE Transactions on Affective Computing_.
 - Yunlong Liang, et al. 2022. [**MSCTD: A Multimodal Sentiment Chat Translation Dataset**](https://aclanthology.org/2022.acl-long.186). _ACL_.
 - Yirong Chen, et al. 2022. [**CPED: A Large-Scale Chinese Personalized and Emotional Dialogue Dataset for Conversational AI**](https://arxiv.org/abs/2205.14727). _arXiv_. <code>Chinese</code>
 - Zhengcong Fei, et al. 2021. [**Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark**](https://arxiv.org/abs/2109.01839). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/lizekang/DSTC10-MOD) <code>Chinese</code>
