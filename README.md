@@ -24,11 +24,20 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 #### Multimodal Fusion
 
+- Yiqun Yao, Rada Mihalcea. 2022. [**Modality-specific Learning Rates for Effective Multimodal Additive Late-fusion**](https://aclanthology.org/2022.findings-acl.143/). _Findings, ACL_.
+
 #### Multimodal Translation
+
+- Bei Li, et al. 2022. [**On Vision Features in Multimodal Machine Translation**](https://aclanthology.org/2022.acl-long.438/). _ACL_.
+- Shaowei Yao, Xiaojun Wan. 2020. [**Multimodal Transformer for Multimodal Machine Translation**](https://aclanthology.org/2020.acl-main.400/). _ACL_. <code>Image</code> <code>Text</code>
 
 #### Multimodal Alignment
 
-#### Multimodal Pre-training
+#### Multimodal Pre-training and Models
+
+- Xichen Pan, et al. 2022. [**Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-Visual Speech Recognition**](https://aclanthology.org/2022.acl-long.308/). _ACL_.
+- Wenliang Dai, et al. 2022. [**Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation**](https://aclanthology.org/2022.findings-acl.187/). _Findings, ACL_.
+- Hui Su, et al. 2022. [**RoCBert: Robust Chinese Bert with Multimodal Contrastive Pretraining**](https://aclanthology.org/2022.acl-long.65/). _ACL_.
 
 #### Multimodal Co-learning
 
@@ -38,6 +47,8 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 ##### Visual Dialogue
 
+- Zhiyuan Ma, et al. 2022. [**UniTranSeR: A Unified Transformer Semantic Representation Framework for Multimodal Task-Oriented Dialog System**](https://aclanthology.org/2022.acl-long.9/). _ACL_.
+- Qingfeng Sun, et al. 2022. [**Multimodal Dialogue Response Generation**](https://aclanthology.org/2022.acl-long.204/). _ACL_.
 - Jiaxin Qi, et al. 2020. [**Two Causal Principles for Improving Visual Dialog**](https://arxiv.org/abs/1911.10496). _CVPR_.
 - Hardik Chauhan, et al. 2019. [**Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System**](https://aclanthology.org/P19-1540/). __ACL__.
 - Lizi Liao, et al. 2018. [**Knowledge-aware Multimodal Dialogue Systems**](https://dl.acm.org/doi/pdf/10.1145/3240508.3240605). _MM, ACM_.
@@ -60,9 +71,16 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 #### Multimodal Reasoning
 
+- Qingxiu Dong, et al. 2022. [**Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues**](https://aclanthology.org/2022.acl-long.66/). _ACL_.
+
 #### Visual QA
 
 #### Affect Recognition and Multimodal Language
+
+- Yan Ling, Jianfei Yu, Rui Xia. 2022. [**Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**](https://aclanthology.org/2022.acl-long.152/). _ACL_.
+- Yang Wu, et al. 2022. [**Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors**](https://aclanthology.org/2022.findings-acl.109/). _Findings, ACL_.
+- Jiquan Wang, et al. 2022. [**Multimodal Sarcasm Target Identification in Tweets**](https://aclanthology.org/2022.acl-long.562/). _ACL_.
+- Huisheng Mao, et al. 2022. [**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**](https://aclanthology.org/2022.acl-demo.20/). _System Demonstrations, ACL_.
 
 ### :100: Evaluation
 
@@ -71,6 +89,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 ### :card_file_box: Dataset and Challenges
 
+- Yunlong Liang, et al. 2022. [**MSCTD: A Multimodal Sentiment Chat Translation Dataset**](https://aclanthology.org/2022.acl-long.186). _ACL_.
 - Zhengcong Fei, et al. 2021. [**Towards Expressive Communication with Internet Memes: A New Multimodal Conversation Dataset and Benchmark**](https://arxiv.org/abs/2109.01839). _Dialog System Technology Challenge, AAAI_. [\[GitHub\]](https://github.com/lizekang/DSTC10-MOD) <code>Chinese</code>
 - Satwik Kottur, et al. 2021. [**SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations**](https://aclanthology.org/2021.emnlp-main.401/). _EMNLP_.
 - Seungwhan Moon, et al. 2020. [**Situated and Interactive Multimodal Conversations**](https://aclanthology.org/2020.coling-main.96/). _COLING_.
@@ -79,6 +98,10 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_. [\[Homepage\]](https://affective-meld.github.io/)
 - Amrita Saha, Mitesh Khapra, Karthik Sankaranarayanan. 2018. [**Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**](https://ojs.aaai.org/index.php/AAAI/article/view/11331). _AAAI_. [\[Homepage\]](https://amritasaha1812.github.io/MMD/)
 - Harm de Vries, et al. 2018. [**Talk the Walk: Navigating New York City through Grounded Dialogue**](https://arxiv.org/abs/1807.03367). _arXiv_. [\[GitHub\]](https://github.com/facebookresearch/talkthewalk)
+
+### Analysis
+
+- Victor Milewski, Miryam de Lhoneux, Marie-Francine Moens. 2022. [**Finding Structural Knowledge in Multimodal-BERT**](https://aclanthology.org/2022.acl-long.388/). _ACL_. [\[GitHub\]](https://github.com/VSJMilewski/multimodal-probes)
 
 ### :robot: Interface, Experience, and Interaction
 
