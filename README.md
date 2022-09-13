@@ -29,6 +29,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 #### Multimodal Translation
 
 - Bei Li, et al. 2022. [**On Vision Features in Multimodal Machine Translation**](https://aclanthology.org/2022.acl-long.438/). _ACL_.
+- Umut Sulubacak, et al. 2020. [**Multimodal machine translation through visuals and speech**](https://link.springer.com/article/10.1007/s10590-020-09250-0). _Machine Translation, Springer_.
 - Shaowei Yao, Xiaojun Wan. 2020. [**Multimodal Transformer for Multimodal Machine Translation**](https://aclanthology.org/2020.acl-main.400/). _ACL_. <code>Image</code> <code>Text</code>
 - Ozan Caglayan, et al. 2019. [**Probing the Need for Visual Context in Multimodal Machine Translation**](https://aclanthology.org/N19-1422/). _NAACL_.
 
