@@ -101,6 +101,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 ### Analysis
 
+- Jialu Wang, Yang Liu, Xin Wang. 2022. [**Assessing Multilingual Fairness in Pre-trained Multimodal Representations**](https://aclanthology.org/2022.findings-acl.211/). _Findings, ACL_.
 - Victor Milewski, Miryam de Lhoneux, Marie-Francine Moens. 2022. [**Finding Structural Knowledge in Multimodal-BERT**](https://aclanthology.org/2022.acl-long.388/). _ACL_. [\[GitHub\]](https://github.com/VSJMilewski/multimodal-probes)
 
 ### :robot: Interface, Experience, and Interaction
