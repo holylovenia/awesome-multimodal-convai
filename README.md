@@ -11,9 +11,11 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 - Anirudh Sundar, Larry Heck. 2022. [**Multimodal Conversational AI: A Survey of Datasets and Approaches**](https://aclanthology.org/2022.nlp4convai-1.12/). _Workshop on NLP for ConvAI, ACL_.
 - Aditya Mogadala, Marimuthu Kalimuthu, Dietrich Klakow. 2021. [**Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods**](https://doi.org/10.1613/jair.1.11688). _JAIR_.
+- Jabeen Summaira, et al. 2021. [**Recent Advances and Trends in Multimodal Deep Learning: A Review**](https://arxiv.org/abs/2105.11087). _arXiv_.
 - Chao Zhang, et al. 2020. [**Multimodal Intelligence: Representation Learning, Information Fusion, and Applications**](https://arxiv.org/abs/1911.03977). _IEEE Journal of Selected Topics in Signal Processing_.
 - Yonatan Bisk, et al. 2020. [**Experience Grounds Language**](https://aclanthology.org/2020.emnlp-main.703/). _EMNLP_.
 - Tadas Baltrušaitis, Chaitanya Ahuja, Louis-Philippe Morency. 2018. [**Multimodal Machine Learning: A Survey and Taxonomy**](https://ieeexplore.ieee.org/iel7/34/8605394/08269806.pdf). _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
+- Dhanesh Ramachandram, Graham W. Taylor. 2017. [**Deep Multimodal Learning: A Survey on Recent Advances and Trends**](https://ieeexplore.ieee.org/document/8103116). _IEEE Signal Processing Magazine_.
 
 ### :monocle_face: Multimodal Machine Learning
 
