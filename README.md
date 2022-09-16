@@ -7,6 +7,11 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 ## :bookmark_tabs: Research Papers
 
+### 💬 Conversational AI Surveys
+
+- Katharina Kann, et al. 2022. [**Open-domain Dialogue Generation: What We Can Do, Cannot Do, And Should Do Next**](https://aclanthology.org/2022.nlp4convai-1.13). _NLP4ConvAI, ACL_.
+- Jianfeng Gao, Michel Galley, Lihong Li. 2018. [**Neural Approaches to Conversational AI**](https://dl.acm.org/doi/pdf/10.1145/3209978.3210183?casa_token=9ygHAl9OmREAAAAA:7ySMxjDO4en-H1nw6Za9RZ0M-T3hc2xuy91p-eeos6B6IPFdMX2hPnb7epZxa6S-6VciTxrzgjek). _SIGIR, ACM_.
+
 ### :nerd_face: Multimodal Surveys
 
 - Anirudh Sundar, Larry Heck. 2022. [**Multimodal Conversational AI: A Survey of Datasets and Approaches**](https://aclanthology.org/2022.nlp4convai-1.12/). _NLP4ConvAI, ACL_.
@@ -98,6 +103,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 ### :100: Evaluation
 
 - Paul Pu Liang, et al. 2021. [**MultiBench: Multiscale Benchmarks for Multimodal Representation Learning**](https://arxiv.org/abs/2107.07502). _NeuRIPS_.
+- Jan Deriu, et al. 2020. [**Survey on evaluation methods for dialogue systems**](https://link.springer.com/article/10.1007/s10462-020-09866-x). _Artificial Intelligence Review, Springer_.
 - Masahiro Araki, et al. 2018. [**Collection of Multimodal Dialog Data and Analysis of the Result of Annotation of Users’ Interest Level**](https://aclanthology.org/L18-1250/). _LREC_. <code>Manual</code>
 
 ### :card_file_box: Dataset and Challenges
