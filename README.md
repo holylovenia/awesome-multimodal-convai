@@ -10,7 +10,6 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 ### 💬 Conversational AI Surveys
 
 - Katharina Kann, et al. 2022. [**Open-domain Dialogue Generation: What We Can Do, Cannot Do, And Should Do Next**](https://aclanthology.org/2022.nlp4convai-1.13). _NLP4ConvAI, ACL_.
-- Jianfeng Gao, Michel Galley, Lihong Li. 2018. [**Neural Approaches to Conversational AI**](https://dl.acm.org/doi/pdf/10.1145/3209978.3210183?casa_token=9ygHAl9OmREAAAAA:7ySMxjDO4en-H1nw6Za9RZ0M-T3hc2xuy91p-eeos6B6IPFdMX2hPnb7epZxa6S-6VciTxrzgjek). _SIGIR, ACM_.
 
 ### :nerd_face: Multimodal Surveys
 
@@ -137,6 +136,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 ## :bookmark: Articles, Tutorials, and Presentations
 
 - Mireille Fares. 2020. [**Towards Multimodal Human-Like Characteristics and Expressive Visual Prosody in Virtual Agents**](https://dl.acm.org/doi/pdf/10.1145/3382507.3421155). _Doctoral Consortium Paper, ICMI_.
+- Jianfeng Gao, Michel Galley, Lihong Li. 2018. [**Neural Approaches to Conversational AI**](https://dl.acm.org/doi/pdf/10.1145/3209978.3210183?casa_token=9ygHAl9OmREAAAAA:7ySMxjDO4en-H1nw6Za9RZ0M-T3hc2xuy91p-eeos6B6IPFdMX2hPnb7epZxa6S-6VciTxrzgjek). _Tutorial, SIGIR, ACM_.
 - Louis-Philippe Morency, Tadas Baltrušaitis. 2017. [**Multimodal Machine Learning: Integrating Language, Vision and Speech**](https://aclanthology.org/P17-5002/). _Tutorial Abstracts, ACL_.
 - Louis-Philippe Morency, Tadas Baltrusaitis. 2017. [**Multimodal Machine Learning**](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf). _Tutorial, ACL_.
 - Margaret Mitchell, John C. Platt, Kate Saenko. 2017. [**Guest Editorial: Image and Language Understanding**](https://link.springer.com/article/10.1007/s11263-017-0993-y). _International Journal of Computer Vision, Springer_.
