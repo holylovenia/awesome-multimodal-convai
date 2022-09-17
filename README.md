@@ -89,6 +89,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 
 - Sruthy Manmadhan, Binsu C. Kovoor. 2020. [**Visual question answering: a state-of-the-art review**](https://link.springer.com/article/10.1007/s10462-020-09832-7). _Artificial Intelligence Review, Springer_.
 - Remi Cadene, et al. 2019. [**RUBi: Reducing Unimodal Biases for Visual Question Answering**](https://proceedings.neurips.cc/paper/2019/file/51d92be1c60d1db1d2e5e7a07da55b26-Paper.pdf). _NeurIPS_.
+- Remi Cadene, et al. 2019. [**Murel: Multimodal relational reasoning for visual question answering**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.pdf).
 
 #### Affect Recognition and Multimodal Language
 
