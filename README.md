@@ -10,6 +10,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 ### 💬 Conversational AI Surveys
 
 - Katharina Kann, et al. 2022. [**Open-domain Dialogue Generation: What We Can Do, Cannot Do, And Should Do Next**](https://aclanthology.org/2022.nlp4convai-1.13). _NLP4ConvAI, ACL_.
+- Somil Gupta, Bhanu Pratap Singh Rawat, Hong Yu. 2020. [**Conversational Machine Comprehension: a Literature Review**](https://aclanthology.org/2020.coling-main.247/). _COLING_.
 
 ### :nerd_face: Multimodal Surveys
 
