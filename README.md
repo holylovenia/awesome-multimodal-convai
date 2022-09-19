@@ -136,6 +136,7 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Delphine Potdevin, Céline Clavel, Nicolas Sabouret. 2020. [**Virtual intimacy in human-embodied conversational agent interactions: the influence of multimodality on its perception**](https://link.springer.com/article/10.1007/s12193-020-00337-9). _Journal on Multimodal User Interfaces, Springer_.
 - Stefan Schaffer, Norbert Reithinger. 2019. [**Conversation is Multimodal: Thus Conversational User Interfaces should be as well**](https://www.dfki.de/fileadmin/user_upload/import/10581_a12-schaffer.pdf). _Conversational User Interfaces (CUI), ACM_.
 - Liu Yang, Catherine Achard, and Catherine Pelachaud. 2022. [**Multimodal Analysis of Interruptions**](https://www.researchgate.net/profile/Catherine-Pelachaud/publication/361335318_Multimodal_Analysis_of_Interruptions/links/62e3e4499d410c5ff36d55b5/Multimodal-Analysis-of-Interruptions.pdf). _International Conference on Human-Computer Interaction, Springer_.
+- Stephen C. Levinson, Judith Holler. 2014. [**The origin of human multi-modal communication**](https://royalsocietypublishing.org/doi/10.1098/rstb.2013.0302). _Philosophical Transactions of the Royal Society B_.
 
 ## :bookmark: Articles, Tutorials, and Presentations
 
