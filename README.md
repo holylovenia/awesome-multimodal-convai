@@ -116,8 +116,10 @@ A paper reading list of Multimodal Conversational AI that I keep for my own rese
 - Deeksha Varshney, Asif Ekbal Anushkha Singh. 2021. [**Knowledge Grounded Multimodal Dialog Generation in Task-oriented Settings**](https://aclanthology.org/2021.paclic-1.45.pdf). _PACLIC_.
 - Satwik Kottur, et al. 2021. [**SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations**](https://aclanthology.org/2021.emnlp-main.401/). _EMNLP_.
 - Kübra Bodur, et al. 2021. [**ChiCo: A Multimodal Corpus for the Study of Child Conversation**](https://dl.acm.org/doi/pdf/10.1145/3461615.3485399). _ICMI_.
+- Mauajama Firdaus, et al. 2020. [**MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations**](https://aclanthology.org/2020.coling-main.393/). _COLING_.
 - Seungwhan Moon, et al. 2020. [**Situated and Interactive Multimodal Conversations**](https://aclanthology.org/2020.coling-main.96/). _COLING_.
 - Darryl Hannan, Akshay Jain, Mohit Bansal. 2020. [**ManyModalQA: Modality Disambiguation and QA over Diverse Inputs**](https://ojs.aaai.org/index.php/AAAI/article/view/6294). _AAAI_.
+- Santiago Castro, 2019. [**Towards Multimodal Sarcasm Detection (An _Obviously_ Perfect Paper)**](https://aclanthology.org/P19-1455/). _ACL_.
 - Satwik Kottur, et al. 2019. [**CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog**](https://aclanthology.org/N19-1058/). _NAACL_. [\[GitHub\]](https://github.com/satwikkottur/clevr-dialog)
 - Soujanya Poria, et al. 2019. [**MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**](https://aclanthology.org/P19-1050/). _ACL_. [\[Homepage\]](https://affective-meld.github.io/)
 - Asma Ben Abacha, et al. 2019. [**VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019**](https://web.archive.org/web/20220120143058id_/http://ceur-ws.org/Vol-2380/paper_272.pdf). _CLEF_.
